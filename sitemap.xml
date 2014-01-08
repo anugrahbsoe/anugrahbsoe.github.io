@@ -1,8 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>http://anugrahbsoe.github.io/blog/2014/01/09/mengirim-e-mail-via-terminal/</loc>
+        <lastmod>2014-01-09T06:29:37+07:00</lastmod>
+    </url>
+    <url>
         <loc>http://anugrahbsoe.github.io/blog/archives/</loc>
-        <lastmod>2014-01-09T05:07:51+07:00</lastmod>
+        <lastmod>2014-01-09T06:29:37+07:00</lastmod>
     </url>
     <url>
         <loc>http://anugrahbsoe.github.io/robots.txt</loc>
@@ -10,6 +14,6 @@
     </url>
     <url>
         <loc>http://anugrahbsoe.github.io/</loc>
-        <lastmod>2014-01-09T05:07:51+07:00</lastmod>
+        <lastmod>2014-01-09T06:29:37+07:00</lastmod>
     </url>
 </urlset>
