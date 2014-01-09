@@ -4,7 +4,7 @@
   <title><![CDATA[Experiment,Experience,Expert]]></title>
   <link href="http://anugrahbsoe.github.io/atom.xml" rel="self"/>
   <link href="http://anugrahbsoe.github.io/"/>
-  <updated>2014-01-09T12:54:05+07:00</updated>
+  <updated>2014-01-09T13:17:37+07:00</updated>
   <id>http://anugrahbsoe.github.io/</id>
   <author>
     <name><![CDATA[anugrahbsoe]]></name>
@@ -96,7 +96,7 @@ Untuk Konfigurasi Mailx sendiri silahkan buka gedit dan ketikan script berikut d
 <p> Jangan lupa ganti tulisan YOUR_EMAIL_ID dengan akun email anda dan simpan dengan nama .mailrc</p>
 
 <p>Kirim E-mail pertamamu
-Untuk mengirim Email pertamamu, jalankan mailx RECIPIENT_EMAIL_ID (ganti RECIPIENT_EMAIL_ID dengan alamat email yang sebenarnya (misalnya <a href="&#109;&#x61;&#x69;&#x6c;&#x74;&#111;&#58;&#110;&#101;&#x77;&#98;&#x69;&#101;&#105;&#108;&#x6d;&#x75;&#64;&#103;&#x6d;&#97;&#105;&#x6c;&#46;&#99;&#111;&#x6d;">&#110;&#101;&#119;&#98;&#x69;&#x65;&#105;&#108;&#109;&#117;&#64;&#103;&#x6d;&#97;&#x69;&#108;&#46;&#x63;&#111;&#109;</a>) Anda akan diminta untuk memasukkan Subjek dan Body E-Mail. Setelah Anda selesai mengetiknya, tekan Enter dan Ctrl + D untuk mengirim surat. Jika Anda tidak menerima pesan kesalahan pada terminal maka pesan anda akan terkirim dengan sukses.</p>
+Untuk mengirim Email pertamamu, jalankan mailx RECIPIENT_EMAIL_ID (ganti RECIPIENT_EMAIL_ID dengan alamat email yang sebenarnya (misalnya <a href="&#109;&#97;&#x69;&#x6c;&#x74;&#111;&#58;&#x6e;&#101;&#x77;&#x62;&#x69;&#101;&#105;&#108;&#109;&#x75;&#x40;&#x67;&#x6d;&#97;&#105;&#x6c;&#x2e;&#99;&#111;&#x6d;">&#110;&#x65;&#119;&#x62;&#x69;&#101;&#x69;&#108;&#109;&#x75;&#x40;&#x67;&#x6d;&#97;&#105;&#x6c;&#x2e;&#99;&#x6f;&#x6d;</a>) Anda akan diminta untuk memasukkan Subjek dan Body E-Mail. Setelah Anda selesai mengetiknya, tekan Enter dan Ctrl + D untuk mengirim surat. Jika Anda tidak menerima pesan kesalahan pada terminal maka pesan anda akan terkirim dengan sukses.</p>
 
 <p><img src="http://3.bp.blogspot.com/-2OGE8KlA9ak/UHNXevPbq1I/AAAAAAAAExM/jEJLLxx6wjA/s1600/2.png">
 Terminal Linux</p>
